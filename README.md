@@ -20,5 +20,3 @@ connect to arduino
 
 
 Voila!!Enjoy
-
-Written By ------Bhavneet Singh
